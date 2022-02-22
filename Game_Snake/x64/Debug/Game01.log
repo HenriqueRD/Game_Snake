@@ -1,0 +1,21 @@
+﻿  Game.cpp
+C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\Game.cpp(11,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\Game.cpp(11,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\Game.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game01.vcxproj -> C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\x64\Debug\Game01.exe

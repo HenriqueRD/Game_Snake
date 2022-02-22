@@ -1,0 +1,10 @@
+﻿  Snake.cpp
+C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\Snake.cpp(13,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\Snake.cpp(102,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\Snake.cpp(160,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 306 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game01.vcxproj -> C:\Users\Henrique R D\Desktop\Game#01 C++\Game01\x64\Release\Game01.exe
